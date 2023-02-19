@@ -1,0 +1,74 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.black{
+    border-radius: 20px; 
+    margin:auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    width:70%; 
+    padding-bottom: 4%;
+}
+
+#logo{
+    margin-top: 5%;
+    width: 20%;
+}
+
+
+nav{
+    background-color: rgb(0,240,0);
+    text-align: center;
+    margin: 0%;
+    padding: 1.8%;
+}
+
+header{
+    text-align: center;
+    color: rgb(0,240,0);
+    font-family: Calibri, sans-serif;
+    font-weight: 200;
+}
+
+main{
+    color: white;
+    margin-left: 10%;
+}
+
+.carica1{
+    background-color: orange;
+    width: 30%;
+}
+  
+.carica2{
+    background-color: greenyellow;
+    width: 60%;
+}
+  
+.carica3{
+    background-color: red;
+    width: 10%;
+    border: 0px;
+}
+
+.carica1, .carica2, .carica3{
+        border-radius: 7px;
+        height: 25px;
+        margin-left: 5%;
+        margin-bottom: 6%;
+}
+
+h2{
+    text-align: left;
+    color: white;
+    font-family: Calibri;
+    margin-left: 2%;
+    font-size: 20px;
+}
+
+p{
+    text-align: left;
+    margin-top: 2%;
+}
